@@ -1,0 +1,1 @@
+Ruby program that asks the user what time they're planning to leave and then compares that time to train schedule and suggests the next train the user should use. If the user will be leaving on the midnight train, the lyrics to "Don't Stop Believing" are printed to the screen as well. 
